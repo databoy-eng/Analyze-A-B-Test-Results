@@ -6,9 +6,9 @@ For this project, we will be working to understand the results of an A/B test ru
 ## Statistical Analysis
 P-value calculations
 Z-core tests
-## Logistic regression
-Multiple linear regression modelling to assess for interactions of independent variables
-Technologies Used
+Logistic regression
+Multiple linear regression 
+## Technologies Used
 Python, Numpy, Pandas, Matplotlib, StatsModels, Scipy
 Jupyter Notebook
 ## Results
