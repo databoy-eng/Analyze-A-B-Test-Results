@@ -11,5 +11,5 @@ Multiple linear regression
 ## Technologies Used
 Python, Numpy, Pandas, Matplotlib, StatsModels, Scipy
 Jupyter Notebook
-## Results
+## Key Findings
 he data analysis results indicate that there is not a significant difference in conversion rates between the new and old pages including from one country to another. Subsequently, we do not reject the null hypothesis.
